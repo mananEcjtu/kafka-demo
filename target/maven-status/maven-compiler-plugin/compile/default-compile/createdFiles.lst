@@ -1,0 +1,5 @@
+com\lesson\consumer\BatchConsumer.class
+com\lesson\consumer\PerConsumer.class
+com\lesson\productor\MyProductor.class
+com\lesson\consumer\MyConsumer.class
+com\lesson\productor\FutureProductor.class
